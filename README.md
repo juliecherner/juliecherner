@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Julie Cherner
 - 🌱 I’m currently learning Full Stack Development
 - 💟 Addicted to React.js
+- 🌱 Learning and practicing Typescript
 - 🤩 Inspired with business logic with Node.js
 - 🗃 Organized with Mongo DB
-- 🏆 Challenges: TypeScript, React Native, SQL databases
+- 🏆 Challenges: React Native, SQL databases
 
 
 <h3 align="left">Languages and Tools:</h3>
