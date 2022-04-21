@@ -5,6 +5,7 @@
 - 🤩 Inspired with business logic with Node.js
 - 🗃 Organized with Mongo DB
 - 🏆 Future goals: SQL databases, React Native
+- 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
