@@ -4,7 +4,7 @@
 - 🌱 Learning and practicing Typescript
 - 🤩 Inspired with business logic with Node.js
 - 🗃 Organized with Mongo DB
-- 🏆 Future goals: PostsreSQL
+- 🏆 Future goals: PostgreSQL
 - 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
 
