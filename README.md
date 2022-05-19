@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Julie Cherner
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m a Full Stack Developer in Javascript and Typescript
 - 💟 Addicted to React.js
-- 🌱 Learning and practicing Typescript
 - 🤩 Inspired with business logic with Node.js
-- 🗃 Organized with Mongo DB
-- 🏆 Future goals: PostgreSQL
+- 🗃 Organized with Mongo DB and PostgreSQL
+- 🏆 Containerized with Docker
 - 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
 
