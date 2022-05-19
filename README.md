@@ -2,7 +2,7 @@
 - 🌱 I’m a Full Stack Developer in Javascript and Typescript
 - 💟 Addicted to React.js
 - 🤩 Inspired with business logic with Node.js
-- 🗃 Organized with Mongo DB and PostgreSQL
+- 🗃 Organized with MongoDB and PostgreSQL
 - 🏆 Containerized with Docker
 - 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
