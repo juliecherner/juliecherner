@@ -3,7 +3,7 @@
 - 💟 Doing front with React and Angular
 - 🤩 Inspired with back with Node (Express and Nest)
 - 🗃 Organized with MongoDB, PostgreSQL, AWS Reshift, Redis
-- 🏆 Use Docker, Kubernetes, AWS, Aruze
+- 🏆 Use Docker, Kubernetes, AWS, Azure
 - 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
 
