@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Julie Cherner
 - 🌱 I’m a Full Stack Engineer | Javascript | Typescript
-- 💟 Doing front with React and Angular | Redux and Toolkit
+- 💟 Doing front with React, Angular, Next
 - 🤩 Inspired with back with Node (Express/Nest)
 - 🗃 Organized with MongoDB, PostgreSQL, AWS Reshift, Redis
-- 🏆 Use Docker, Kubernetes, AWS, Azure
+- 🏆 Use CI/CD, Docker, Kubernetes, AWS
 - 🖊 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>
 
 
