@@ -3,8 +3,8 @@
 -  Components libraries
 -  CSS and SASS, Tailwind CSS
 -  Node, Express, Nest.js
--  MongoDB, PostgreSQL, AWS Reshift, Redis
--  CI/CD
+-  MongoDB, PostgreSQL, AWS Reshift, Redis, Firebase
+-  CI/CD with Github Actions
 -  Testing with Jest, Cypress, etc.
 -  Docker and basic Kubernetes
   
