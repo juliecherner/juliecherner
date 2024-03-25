@@ -7,7 +7,7 @@
 -  Unit/API/e2e Testing with Jest, Cypress, etc.
 -  Docker and basic Kubernetes
 -  AWS and GCP
--  Currently learning Python and Djang
+-  Currently learning Python and Django
   
 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>  🖊 .
 
