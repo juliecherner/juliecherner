@@ -8,5 +8,5 @@
 -  Testing with Jest, Cypress, etc.
 -  Docker and basic Kubernetes
   
-Currently learning Java with Spring Boot and enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>  🖊 .
+Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>  🖊 .
 
