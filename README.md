@@ -1,12 +1,13 @@
 👋 Hi, I’m Julie Cherner and I’m a Full Stack Engineer specializing in developing applications with Typescript, using the following technologies:
--  React, Angular, Next.js + Redux/Toolkit/RxJs
--  Components libraries
--  CSS and SASS, Tailwind CSS
--  Node, Express, Nest.js
--  MongoDB, PostgreSQL, AWS Reshift, Redis, Firebase
--  CI/CD with Github Actions
--  Testing with Jest, Cypress, etc.
+-  Node.js: Express and Nest.js
+-  NoSQL and SQL databases: MongoDB, Redis, Firebase, PostgreSQL, AWS Redshift
+-  React, Angular, Next.js + Redux/Toolkit/Zustand/RxJs/React Query
+-  Components libraries, Tailwind CSS, CSS and SASS
+-  CI/CD with Github Actions, Circle CI
+-  Unit/API/e2e Testing with Jest, Cypress, etc.
 -  Docker and basic Kubernetes
+-  AWS and GCP
+-  Currently learning Python and Djang
   
 Enjoying writing on <a href="https://dev.to/juliecherner">dev.to</a>  🖊 .
 
